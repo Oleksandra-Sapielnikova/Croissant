@@ -8,18 +8,19 @@ p {
   text-align: center;
 }
 
-img{
+img {
   max-width: 100%;
   border-radius: 10px;
   margin-bottom: 35px;
+  display: block;
 }
 
-.links{
+.links {
   display: block;
   text-align: center;
 }
 
-.links a{
- color: green;
+.links a {
+  color: green;
   margin: 0 10px;
 }
